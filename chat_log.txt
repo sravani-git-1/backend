@@ -1,0 +1,43 @@
+[2026-05-01 11:09:33.542017]
+User: 來囉
+AI: 你好！要我幫你管理 customers 還是 vendors？請告訴我要做的動作（建立 / 查詢 / 更新 / 刪除）。範例：
+- 建立：我需要 name（以及你要提供的其他欄位）
+- 查詢：說「列出所有客戶」或「查詢客戶 12」
+- 更新/刪除：請提供 id 或 name
+
+你想怎麼做？
+----------------------------------------
+[2026-05-01 11:13:06.231837]
+User: Hi!
+AI: Hi! How can I help with customers or vendors? You can ask me to:
+- create (I’ll need the name),
+- list/show/get (all or by id/name),
+- update (give id or name first),
+- delete (give id or name first).
+
+What would you like to do?
+----------------------------------------
+[2026-05-01 11:13:36.925717]
+User: Hi!
+AI: Hi! How can I help with customers or vendors? You can ask me to:
+- create (I’ll need the name),
+- list/show/get (all or by id/name),
+- update (please give id or name first),
+- delete (please give id or name first).
+
+What would you like to do?
+----------------------------------------
+[2026-05-01 11:14:01.408243]
+User: Hi!
+AI: Hi! How can I help with customers or vendors today? Options:
+- create (I’ll need the name),
+- list/show/get (all or by id/name),
+- update (please provide id or name first),
+- delete (please provide id or name first).
+
+Which entity (customers or vendors) and which action?
+----------------------------------------
+[2026-05-01 11:14:08.297250]
+User: hi, what is the formula for water
+AI: The chemical formula for water is H2O — each molecule has two hydrogen (H) atoms bonded to one oxygen (O) atom. Molecular weight ≈ 18.015 g/mol. Water is a polar molecule and forms hydrogen bonds, which give it many of its unique properties.
+----------------------------------------
