@@ -9,7 +9,7 @@ from gtts import gTTS
 # CONFIG
 # ==============================
 N8N_WEBHOOK_URL = "https://sravani1.app.n8n.cloud/webhook/gemini_voice_test"
-genai.configure(api_key="YOUR_API_KEY")
+genai.configure(api_key="AIzaSyCAYU6-vJsZQrGbYVi2TnH7Pq6-_Y4E-KM")
 
 model = genai.GenerativeModel("gemini-1.5-flash")
 
